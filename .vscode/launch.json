@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/marcogiven/Desktop/random notes/junior yr./3207/3207-Lab-Introduction",
+      "program": "/Users/marcogiven/Desktop/random notes/junior yr./3207/3207-Lab-Introduction/build/Debug/outDebug"
+    }
+  ]
+}
